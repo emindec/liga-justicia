@@ -1,4 +1,4 @@
-# Objetivos de la repositorio
+# Objetivos del repositorio
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
@@ -10,4 +10,5 @@ Pueden hacer lo que quieran...
 
 Este es un mensaje editado completamente desde Github
 
+#### Readme actual
 
